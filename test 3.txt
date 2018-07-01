@@ -1,1 +1,2 @@
-Nrmal commit after the issue is resolve
+Normal commit after the issue is resolve
+second changes in the file after the issue 
