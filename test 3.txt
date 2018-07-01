@@ -1,2 +1,5 @@
 Normal commit after the issue is resolve
 second changes in the file after the issue 
+
+
+testers issue resolved during testing
